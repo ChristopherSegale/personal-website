@@ -29,7 +29,7 @@
   :meta-title "Programming Languages"
   :title "Programming Languages I am Proficient in")
   "Here are a list of programming languages I am proficient in:"
-  ("C" "C++" "Common Lisp" "Python" "Go" "Java" "Javascript" "PHP")
+  ("C" "C++" "C#" "Common Lisp" "Python" "Go" "Java" "Javascript" "PHP")
   "In terms of programming languages, I have the most experience with using C and Common Lisp to develop a number of applications ranging from text manipulation-based command line programs to graphical programs such as video games. I have also used PHP in order to create a web-based message board. My understanding of industry-standard programming languages are also something I am comfortable with. These languages would include Java and Python. I have also experimented with Go."
   "I have a good understanding of a number of programming paradigms including procedural, object oriented, and functional. The kinds of applications I developed include SaaS web applications, command line programs, and video games. While most of my experience revolves around backend logic, I can also do frontend development.")
 
